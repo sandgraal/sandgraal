@@ -20,7 +20,7 @@ Architecting change-data pipelines, visualising systems like classic dashboards,
 ---
 
 ## 🌱 About Me
-I care about clean, resilient design—both in code and life.  
+I care about clean, resilient design, both in code and life.  
 I like retro aesthetics with modern tooling, cooking, gardening, tinkering with side-projects.  
 I believe data should tell a story.  
 I don’t like over-complication or gatekeeping knowledge.

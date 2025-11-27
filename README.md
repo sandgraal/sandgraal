@@ -1,31 +1,32 @@
-# 👋 Hi, I’m Chris (@sandgraal)
+# 👋 Chris / @sandgraal
 
-**I build resilient data systems with a touch of retro craft.**  
-Architecting change-data pipelines, visualising systems like classic dashboards, and teaching others to master CDC.
-
----
-
-## 🎯 Focus Areas
-- **Real-time data & Streaming &mdash;** simplifying change data capture, offsets, latency and streaming architectures.  
-- **Retro Web Builds &mdash;** dashboards and UI pieces inspired by vintage games and CRTs, powered by modern tooling.  
-- **Cloud & Distributed Systems &mdash;** by day I’m a Cloud Solution Architect turning distributed-system pain into clean design.
+**I design and stabilize real-time data systems.**  
+Streaming pipelines, operational reliability, and architecture that holds up under stress.
 
 ---
 
-## 🛠 Skills & Tools
-- **Streaming, CDC & Integration:** Change-Data-Capture (CDC), Streaming pipelines, Real-time ingestion, CI/CD automation  
-- **Databases & Warehousing:** Microsoft SQL Server (source systems), Snowflake (analytics target), Performance tuning, DB admin  
-- **Cloud, DevOps & Architecture:** AWS, Distributed systems design, Continuous integration/deployment (CI/CD), DataOps  
+## 🎯 What I Work On
+- **Real-Time Data & Streaming** — change streams, event flow, replay logic, schema evolution, and failure diagnostics.  
+- **Operational Tooling** — system visibility, lineage, error surfaces, automated fix/suggest loops.  
+- **Cloud & Distributed Architecture** — AWS, Snowflake, SQL Server; reducing blast radius and operational drag.
+
+---
+
+## 🛠 Applied Skills
+- **Pipelines:** real-time ingestion, event processing, integration patterns, DataOps automation.  
+- **Data Systems:** SQL Server sources, Snowflake analytics, performance tuning, workload governance.  
+- **Infra & DevOps:** AWS, CI/CD, distributed-system design, reliability engineering, observability patterns.
 
 ---
 
 ## 🌱 About Me
-I care about clean, resilient design, both in code and life.  
-I like retro aesthetics with modern tooling, cooking, gardening, tinkering with side-projects.  
-I believe data should tell a story.  
-I don’t like over-complication or gatekeeping knowledge.
+- I optimize for clarity, stability, and maintainability.  
+- I prefer systems that are easy to reason about and easy to repair.  
+- I cook, garden, and build side-projects when I need to think.  
+- I document what I learn so others don’t have to reverse-engineer tribal knowledge.
 
 ---
+
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/cennis/)  

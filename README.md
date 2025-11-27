@@ -6,7 +6,7 @@ Architecting change-data pipelines, visualising systems like classic dashboards,
 ---
 
 ## 🎯 Focus Areas
-- **CDC & Streaming &mdash;** simplifying change data capture, offsets, latency and streaming architectures.  
+- **Real-time data & Streaming &mdash;** simplifying change data capture, offsets, latency and streaming architectures.  
 - **Retro Web Builds &mdash;** dashboards and UI pieces inspired by vintage games and CRTs, powered by modern tooling.  
 - **Cloud & Distributed Systems &mdash;** by day I’m a Cloud Solution Architect turning distributed-system pain into clean design.
 

@@ -1,40 +1,43 @@
-# 👋 Chris / @sandgraal
+# Chris / @sandgraal
 
-**I design and stabilize real-time data systems.**  
-Streaming pipelines, operational reliability, and architecture that holds up under stress.
-
----
-
-## 🎯 What I Work On
-- **Real-Time Data & Streaming** — change streams, event flow, replay logic, schema evolution, and failure diagnostics.  
-- **Operational Tooling** — system visibility, lineage, error surfaces, automated fix/suggest loops.  
-- **Cloud & Distributed Architecture** — AWS, Snowflake, SQL Server; reducing blast radius and operational drag.
+**I build and stabilize real-time data systems that don’t fall apart under pressure.**  
+Streaming pipelines, change data capture, and architectures designed for failure—not demos.
 
 ---
 
-## 🛠 Applied Skills
-- **Pipelines:** real-time ingestion, event processing, integration patterns, DataOps automation.  
-- **Data Systems:** SQL Server sources, Snowflake analytics, performance tuning, workload governance.  
-- **Infra & DevOps:** AWS, CI/CD, distributed-system design, reliability engineering, observability patterns.
+## What I Focus On
+- **Real-Time & CDC Systems** — change streams, replay safety, schema evolution, backfills, and failure recovery.
+- **Operational Reliability** — visibility, lineage, diagnostics, and reducing mean time to repair.
+- **Distributed Data Architecture** — AWS-native systems, Snowflake analytics, SQL Server sources, and pragmatic scaling.
 
 ---
 
-## 🌱 About Me
-- I optimize for clarity, stability, and maintainability.  
-- I prefer systems that are easy to reason about and easy to repair.  
-- I cook, garden, and build side-projects when I need to think.  
-- I document what I learn so others don’t have to reverse-engineer tribal knowledge.
+## How I Work
+- Design systems that are **easy to reason about at 3 a.m.**
+- Prefer boring, observable solutions over clever ones.
+- Reduce blast radius first; optimize later.
+- Document decisions so the next engineer doesn’t inherit a mystery.
 
 ---
 
-
-## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/cennis/)  
+## Selected Work & Interests
+- Streaming pipelines with explicit replay and failure semantics  
+- Operational tooling for CDC and event-driven systems  
+- Data platform ergonomics: making systems usable, not just powerful  
 
 ---
 
-## 📈 GitHub Profile Stats
+## About Me
+I care about clarity, stability, and systems that can be safely operated by humans.  
+When I’m not working on data systems, I cook, garden, and build side projects to reset my thinking.
+
+---
+
+## 📬 Connect
+- [LinkedIn](https://www.linkedin.com/in/cennis/)
+
+---
+
+## 📈 GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandgraal&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandgraal&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandgraal&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=sandgraal&theme=onedark)

@@ -1,7 +1,7 @@
 # Chris / @sandgraal
 
 **I build and stabilize real-time data systems that don’t fall apart under pressure.**  
-Streaming pipelines, change data capture, and architectures designed for failure—not demos.
+Streaming pipelines, change data capture, and architectures designed for failure; not demos.
 
 ---
 

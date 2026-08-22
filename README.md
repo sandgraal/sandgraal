@@ -17,7 +17,7 @@ Forward Deployed Engineer. Enterprise data systems background: streaming, CDC, a
 
 - [**Compass**](https://github.com/sandgraal/compass) — local-first desktop app for finances, notes, calendar, tasks, and habits. Data never leaves your machine. Claude integrated via MCP.
 - [**Let's Talk CDC**](https://github.com/sandgraal/Lets-Talk-CDC-Change-Feed-Playground) — interactive CDC simulator. [Live](https://letstalkcdc.appwrite.network).
-- Production menu/admin systems for restaurants in Costa Rica ([las-veraneras](https://github.com/sandgraal/las-veraneras-menu), [gereni](https://github.com/sandgraal/gereni-menu)).
+- [**vespera-js13k**](https://github.com/sandgraal/vespera-js13k) — A darkly satirical top-down roguelike. [Live](https://sandgraal.github.io/vespera-js13k/).
 
 ---
 

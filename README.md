@@ -39,9 +39,3 @@ When I'm not working, I cook, garden, and build side projects to reset my thinki
 
 ## 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/cennis/)
-
----
-
-## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandgraal&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandgraal&layout=compact&theme=tokyonight)

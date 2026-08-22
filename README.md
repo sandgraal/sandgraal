@@ -1,7 +1,7 @@
 # Chris / @sandgraal
 
 **I deploy AI agents into production business workflows that can't afford to break.**
-Forward Deployed Engineer. Enterprise data systems background: streaming, CDC, and architectures designed for failure.
+Forward Deployed Engineer. Enterprise data systems background: streaming, CDC, and cloud architectures.
 
 ---
 

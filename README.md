@@ -13,5 +13,4 @@ Forward Deployed Engineer. Enterprise data systems background: CDC and cloud arc
 
 ---
 
-## 📬 Connect
-- [LinkedIn](https://www.linkedin.com/in/cennis/)
+## 📬 Connect: [LinkedIn](https://www.linkedin.com/in/cennis/)

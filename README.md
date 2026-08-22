@@ -13,12 +13,5 @@ Forward Deployed Engineer. Enterprise data systems background: CDC and cloud arc
 
 ---
 
-## Selected Work
-
-- [**Compass**](https://github.com/sandgraal/compass) — local-first desktop app for finances, notes, calendar, tasks, and habits. Data never leaves your machine. Claude integrated via MCP.
-- [**vespera-js13k**](https://github.com/sandgraal/vespera-js13k) — A darkly satirical top-down roguelike. [Live](https://sandgraal.github.io/vespera-js13k/).
-
----
-
 ## 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/cennis/)

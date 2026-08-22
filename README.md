@@ -20,22 +20,5 @@ Forward Deployed Engineer. Enterprise data systems background: CDC and cloud arc
 
 ---
 
-## How I Work
-
-- Quality gates before feature velocity.
-- Design systems that are **easy to reason about at 3 a.m.**
-- Prefer boring, observable solutions over clever ones.
-- Reduce blast radius first; optimize later.
-- Document decisions so the next engineer doesn't inherit a mystery.
-
----
-
-## About Me
-
-I care about clarity, stability, and systems that can be safely operated by humans.
-When I'm not working, I cook, garden, and build side projects to reset my thinking.
-
----
-
 ## 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/cennis/)

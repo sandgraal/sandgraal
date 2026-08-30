@@ -3,4 +3,4 @@
 tiny brain make many projects. sometimes projects good, sometimes bad. make projects for fun and for learn, some make money...but if make money probably private...ha ha ha.
 give money me make more projects for you
 
-## dis real me: [LinkedIn](https://www.linkedin.com/in/cennis/)
+## dis real me, promise: [LinkedIn](https://www.linkedin.com/in/cennis/)
